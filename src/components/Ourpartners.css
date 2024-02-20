@@ -1,0 +1,367 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main22-ourpartners {
+  width: 100%;
+  margin-bottom: 10%;
+}
+.maindevelop-partners {
+  /* width: 90%; */
+  margin: auto;
+  display: flex;
+}
+.leftdevelop-partners {
+  width: 50%;
+}
+.RightDevelop-partners {
+  width: 50%;
+}
+.RightDevelop-partners p {
+  text-align: start;
+  color: #fff;
+  /* margin-left: 18px; */
+}
+.subleftdevelop1-partners h1 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 54px;
+  text-align: start;
+  font-family: "Libre Franklin";
+}
+.alert-main {
+  display: flex;
+  margin-top: 5%;
+}
+
+.alert2001 {
+  text-align: start;
+  border-radius: 16px;
+  background: linear-gradient(
+    118deg,
+    rgba(255, 255, 255, 0.06) 0.03%,
+    rgba(255, 255, 255, 0) 100.03%
+  );
+  margin-bottom: 8%;
+}
+.alert2002 {
+  text-align: start;
+  border-radius: 16px;
+  background: linear-gradient(
+    126deg,
+    rgba(255, 255, 255, 0.06) 0.07%,
+    rgba(255, 255, 255, 0) 100.07%
+  );
+  border: none;
+}
+.alert2003 {
+  border-radius: 16px 0px 0px 16px;
+  background: linear-gradient(
+    118deg,
+    rgba(255, 255, 255, 0.06) -0.06%,
+    rgba(255, 255, 255, 0) 99.94%
+  );
+  text-align: start;
+  border: none;
+  margin-bottom: 8%;
+}
+.alert2004 {
+  /* background: rgba(255, 255, 255, 0.08); */
+  /* width: 70%; */
+  text-align: start;
+  border-radius: 16px 0px 0px 16px;
+  border: none;
+  background: linear-gradient(
+    120deg,
+    rgba(255, 255, 255, 0.06) 1.87%,
+    rgba(255, 255, 255, 0) 99.98%
+  );
+}
+.servicesdevelop {
+  background: linear-gradient(169deg, #6458e7 26.53%, #9760f4 55.47%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Libre Franklin";
+}
+.dot1 {
+  height: 314px;
+  width: 314px;
+  border-radius: 50%;
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 25%;
+  margin-top: 25%; */
+  position: relative;
+  top: 10%;
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.08) 0%,
+      rgba(0, 0, 0, 0.08) 100%
+    ),
+    linear-gradient(90deg, #e0b0ff 0%, #9474f6 76.04%);
+  box-shadow: 4px 4px 4px 0px rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(50px);
+}
+
+.dot2 {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  position: relative;
+  left: 23%;
+  top: 11%;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  background: linear-gradient(90deg, #e0b0ff 0%, #9474f6 76.04%);
+}
+.dot3 {
+  height: 125px;
+  width: 125px;
+
+  border-radius: 50%;
+  color: #fff;
+  left: 64%;
+  position: relative;
+  top: 3%;
+  font-weight: 500;
+  font-size: 16px;
+  background: linear-gradient(60deg, #e0b0ff 0%, #9474f6 76.04%);
+}
+.dot4 {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 2px;
+  background: linear-gradient(90deg, #e0b0ff 0%, #9474f6 76.04%);
+}
+.dot5 {
+  height: 122px;
+  width: 122px;
+  border-radius: 50%;
+  position: relative;
+  left: 50%;
+  color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+  background: linear-gradient(90deg, #e0b0ff 0%, #9474f6 76.04%);
+}
+.dot6 {
+  height: 35px;
+  width: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgba(251, 250, 250, 0.04); */
+  border-radius: 50%;
+  position: relative;
+  left: -7%;
+  
+  margin-top: -62%;
+  background: linear-gradient(
+    90deg,
+    rgba(224, 176, 255, 0.2) 0%,
+    rgba(148, 116, 246, 0.2) 76.04%
+  );
+}
+.dot7 {
+  height: 37px;
+  width: 37px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 50%;
+  position: relative;
+  left: 65%;
+  margin-top: 20%;
+  background: linear-gradient(
+    90deg,
+    rgba(224, 176, 255, 0.2) 0%,
+    rgba(148, 116, 246, 0.2) 76.04%
+  );
+}
+.dot8 {
+  height: 16px;
+  width: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgba(251, 250, 250, 0.04); */
+  border-radius: 50%;
+  position: relative;
+  left: 60%;
+  margin-top: -10%;
+  background: linear-gradient(
+    90deg,
+    rgba(224, 176, 255, 0.2) 0%,
+    rgba(148, 116, 246, 0.2) 76.04%
+  );
+}
+.dot9 {
+  height: 13px;
+  width: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgba(251, 250, 250, 0.04); */
+  border-radius: 50%;
+  position: relative;
+  left: 32%;
+  margin-top: 20%;
+  background: linear-gradient(
+    90deg,
+    rgba(224, 176, 255, 0.2) 0%,
+    rgba(148, 116, 246, 0.2) 76.04%
+  );
+}
+.dot10 {
+  height: 37px;
+  width: 37px;
+
+  border-radius: 50%;
+  position: relative;
+  left: 81%;
+  margin-top: -48%;
+  background: linear-gradient(
+    90deg,
+    rgba(224, 176, 255, 0.2) 0%,
+    rgba(148, 116, 246, 0.2) 76.04%
+  );
+}
+.alert-right1 {
+  margin-top: 15%;
+  /* margin-left: 5%; */
+}
+.eng-dot {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background: #e0b0ff;
+}
+.eng-dot img {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.eng-dot2 {
+  width: 60px;
+  height: 60px;
+  background: #84e0c2;
+  border-radius: 50%;
+}
+.eng-dot2 img {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.eng-dot3 {
+  width: 60px;
+  height: 60px;
+  background: #f07576;
+  border-radius: 50%;
+}
+.eng-dot3 img {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.eng-dot4 {
+  width: 60px;
+  height: 60px;
+  background: #9474f6;
+  border-radius: 50%;
+}
+.eng-dot4 img {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.ourpartners-text {
+  font-family: "Libre Franklin";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+.figma2001-partners {
+  /* margin-left: -43%; */
+}
+.head-text {
+  color: #fff;
+  font-family: "Libre Franklin";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 120% */
+}
+.para-text {
+  color: #fff;
+  font-family: "Libre Franklin";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 171.429% */
+}
+.alert-right1-partners {
+  margin-top: 28%;
+}
+@keyframes fadeInOut {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.dot6 {
+  animation: fadeInOut 2s ease-in-out infinite, fadeInOut 2s ease-in-out infinite;
+}
+
+.dot7 {
+  animation: rotate 3s linear infinite, fadeInOut 2s ease-in-out infinite;
+}
+
+.dot8 {
+  animation: fadeInOut 2s ease-in-out infinite, rotate 2s linear infinite;
+}
+
+.dot9 {
+  animation: fadeInOut 2s ease-in-out infinite, rotate 2s linear infinite;
+}
+
+.dot10 {
+  animation: rotate 3s linear infinite, fadeInOut 2s ease-in-out infinite;
+}

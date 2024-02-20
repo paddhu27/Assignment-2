@@ -1,0 +1,60 @@
+/* .nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-top: 10px;
+  padding-bottom: 6px;
+  padding-left: 20px;
+}
+
+.nav__logo {
+  width: 150px;
+  height: 39.725px;
+  flex-shrink: 0;
+}
+
+.menu-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 32px;
+  z-index: 50;
+  cursor: pointer;
+}
+
+.get-touch-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5px;
+  height: 50px;
+  border-radius: 6px;
+  padding: 10px 6px;
+  border-width: 0.5px;
+  border-style: solid;
+  background: linear-gradient(180deg, #2f50da 0%, #a562f7 100%);
+  border: #2f50da;
+  margin: auto;
+}
+
+.nav-text {
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 9;
+  font-family: "Libre Franklin";
+} */
+/* .landing-btn {
+  display: flex;
+  padding: 8px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  align-self: stretch;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #2f50da 0%, #a562f7 100%);
+  border-radius: 10px;
+  margin-bottom: 2%;
+} */

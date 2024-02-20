@@ -1,0 +1,140 @@
+.resolute {
+  width: 100%;
+
+  display: flex;
+}
+.maindevelop-resolute {
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text {
+  width: 40%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+.leftdevelop-resolute {
+  width: 100%;
+  max-width: 1280px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  z-index: 30;
+}
+.RightDevelop-resolute {
+  width: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: relative;
+}
+.text-style-1 {
+  display: flex;
+  text-align: start;
+  justify-content: start;
+  font-family: "Libre Franklin";
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 54px; /* 100% */
+  background: linear-gradient(180deg, #fff 0%, #a562f7 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.Resolute-Interchain-Interface {
+  display: flex;
+  text-align: start;
+  justify-content: start;
+  margin-top: 3%;
+  
+ 
+  color: #fff;
+  font-family: "Libre Franklin";
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; 
+}
+.text-frame {
+  color: #fff;
+  font-family: "Libre Franklin";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 171.429% */
+  width: 75%;
+}
+.text-frame p {
+  display: flex;
+  justify-content: start;
+  text-align: start;
+}
+.resolute-btn {
+  display: flex;
+  padding: 16px 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #2f50da 0%, #a562f7 100%);
+  color: #fff;
+  font-family: "Libre Franklin";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 150% */
+  margin-top: 4%;
+}
+.RightDevelop-delegate {
+  width: 60%;
+  overflow: hidden;
+  position: relative;
+}
+.myVideop {
+  /* position: absolute; 
+    right: 0; 
+    bottom: 0;
+    max-width: 60%; 
+    min-height: 100%;
+    width: 100%; 
+    height: 100%; 
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden; */
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  object-position: left;
+}
+.myVideores {
+  right: 0;
+  top: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: 10;
+}
+.left-bg {
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+  /* width: 45%; */
+  /* margin-right: 5%; */
+}
+.resolute-video {
+  left: 50%;
+  /* transform: translateX(50%); */
+  position: absolute;
+  z-index: 40;
+  height: 90vh;
+  width: 70vw;
+  /* background-color: red; */
+  /* top: 50%;
+  transform: translate(-50%, -50%);
+   */
+}

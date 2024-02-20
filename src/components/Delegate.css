@@ -1,0 +1,176 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main-delegate {
+  width: 100%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.main22-delegate {
+  /* width: 90%; */
+  margin: auto;
+}
+
+.subleftdevelop1-delegate h1 {
+  opacity: 0.8;
+  font-family: "Libre Franklin";
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 64px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  justify-content: center;
+  align-self: stretch;
+  margin-bottom: 0.5%;
+}
+.delegate-text-delegate {
+  align-self: stretch;
+
+  opacity: 0.8;
+  font-family: "Libre Franklin";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 3%;
+}
+.partners-logos {
+  height: 100px;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  opacity: 0.8;
+}
+.partners-logo-1 {
+  height: 100px;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  opacity: 0.8;
+  margin-bottom: 3%;
+}
+.partners-logo-2 {
+  height: 100px;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 0;
+  opacity: 0.8;
+  margin-bottom: 2%;
+}
+.bottom-text {
+  opacity: 0.8;
+  font-family: "Libre Franklin";
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 4%;
+}
+.alert2001 {
+  /* background: rgba(255, 255, 255, 0.08); */
+  /* width: 80%; */
+  text-align: start;
+  border-color: rgba(255, 255, 255, 0.04);
+  background: rgba(255, 255, 255, 0.04);
+  margin-bottom: 30%;
+}
+.Jack-Zampolin {
+  opacity: 0.8;
+  background-image: linear-gradient(to bottom, #2f50da 0%, #a562f7 100%);
+  font-family: "Libre Franklin";
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  /* line-height: 1.71; */
+  letter-spacing: 0.56px;
+
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.delegate-main-head {
+}
+.Jackk_1234 {
+  color: #fff;
+  font-family: "Libre Franklin";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  /* line-height: 18px; */
+  letter-spacing: 1.2px;
+}
+.twitter-text {
+  color: #fff;
+  font-family: "Libre Franklin";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 200% */
+  letter-spacing: 1.2px;
+}
+.date-text {
+  color: rgba(255, 255, 255, 0.5);
+  font-family: "Libre Franklin";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 200% */
+  letter-spacing: 1.2px;
+}
+.vitwit-text {
+  background: linear-gradient(180deg, #2f50da 78.66%, #a562f7 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Libre Franklin";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px;
+}
+@keyframes moveLeftToRight {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.partners-logo-1,
+.partners-logo-2 {
+  display: flex;
+  overflow: hidden;
+  animation: moveLeftToRight 15s linear; /* Adjust the duration as needed */
+}
+
+.partners-logo-1 img,
+.partners-logo-2 img {
+  margin-right: 20px; /* Adjust the margin between images as needed */
+}
